@@ -1,0 +1,39 @@
+1. Number of Instances: 699 
+	Training: 490
+	Test :    209
+
+2. Number of Attributes: 9 plus ID and the class attribute
+
+3. Attribute Information: (class attribute has been moved to last column)
+
+   #  Attribute                        Value
+   -- -----------------------------------------
+   1. Sample code number               id number
+   2. A1		               1 - 10
+   3. A2			       1 - 10
+   4. A3			       1 - 10
+   5. A4		               1 - 10
+   6. A5			       1 - 10
+   7. A6	                       1 - 10
+   8. A7		               1 - 10
+   9. A8		               1 - 10
+  10. A9	                       1 - 10
+  11. Class:                           (2, 4)
+
+4. Missing attribute values: 16
+
+   There are 16 instances that contain a single missing 
+   (i.e., unavailable) attribute value, now denoted by "?".  
+
+9. Class distribution:
+ 
+   Class 2: 458 (65.5%)
+   Class 4: 241 (34.5%)
+
+   Training:
+   Class 2: 315
+   Class 4: 175
+
+   Test:
+   Class 2: 143
+   Class 4:  66
